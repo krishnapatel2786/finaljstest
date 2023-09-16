@@ -1,0 +1,14 @@
+1    When should an object be used?
+ans  if theare is many values of one item that time object is used.
+
+2    when should a loop be used?
+ans  the loop is used when we have to perform a same task for different vale.
+
+3    when should code branching be used?
+ans  if theare are a condition that time we use code branching.
+
+4    what does the arry.foreach() method return?
+ans  it returns not a function.
+
+5    What does the Array.find() method returns?
+ans  it returns fist truthevalue.
